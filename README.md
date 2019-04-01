@@ -2,4 +2,4 @@
 
 #### March Madness Bracket Predictions
 
-Project video and finalized model coming soon.
+Project video, finalized model, and finalized report coming soon.
